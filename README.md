@@ -24,5 +24,5 @@ Material Design 3
 Stateless widgets throughout
 No state management (frontend demo)
 
-<img width="479" height="723" alt="image" src="https://github.com/user-attachments/assets/2018fabb-1389-4f7d-8ccc-324384b9bb27" />
-![Uploading image.png…]()
+<img width="282" height="470" alt="image" src="https://github.com/user-attachments/assets/dcbd6035-3f9a-48f8-bf27-b37441bd1fe5" />
+
