@@ -1,6 +1,6 @@
-22k4413 - syeda fakhira saghir
-22k4461 - Rakhshanda Parveen
-22K-4301 - Ali Jafar
+22k4413 - syeda fakhira saghir,
+22k4461 - Rakhshanda Parveen,
+22K-4301 - Ali Jafar,
 22K-4473 - Jaswant Lal
 
 Todo List UI: A simple, frontend-only Flutter application demonstrating a clean todo list user interface. Built with Material Design 3 principles.
